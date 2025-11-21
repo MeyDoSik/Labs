@@ -1,0 +1,5 @@
+﻿  FileName1A.cpp
+  FileName1B.cpp
+  Создание кода...
+FileName1B.obj : error LNK2005: main уже определен в FileName1A.obj
+C:\Users\dimas\source\repos\Project6\x64\Debug\Project6.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
